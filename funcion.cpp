@@ -17,7 +17,6 @@ int main() {
     cin >> numero1;
     cout << "Ingrese segundo valor: ";
     cin >> numero2;
-    bool n1EsPrimo = true;
     if (esPrimo(numero1) == true && esPrimo(numero2) == true) {
         if (esPar(numero1 + numero2)) {
             cout << "La suma es: " << suma(numero1, numero2) << endl;
