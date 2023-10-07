@@ -1,6 +1,6 @@
 def isOdd(n):
     return n % 2 == 1
-#n = 5        5 - 2 = 3
+
 ok = False
 while ok == False:
     n = int(input("Ingrese numero impar: "))
