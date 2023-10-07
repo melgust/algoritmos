@@ -1,0 +1,8 @@
+lea detenidamente el enunciado y resuelva utilizando el lenguaje de programación Python. El gobierno ha implementado como parte de su programa social, un subsidio familiar bajo la siguiente reglamentación:
+
+Las familias que tienen hasta 2 hijos, reciben Q. 70.00, las que tienen hasta 3 y 5 reciben Q. 90.00 y las que tienen 6 o más reciben Q. 120 mensual. Por cada hijo en edad escolar reciben Q. 10.00 adicionales. Se considera la edad escolar entre 6 y 18 años. Si la madre de familia fuera viuda, la familia recibe Q. 20.00 adicionales.
+
+Determinar el monto mensual que recibirá una familia de acuerdo a su realidad familiar a través de una función llamada calcularSubsidio.
+
+
+use el lenguaje de programación C++ para escribir una aplicación que solicite al usuario un número que será la longitud de dos vectores que se deben llenar aleatoriamente, sume los valores e indique si ocurre cualquiera de los siguientes escenarios. a) Son iguales, b) vector A es menor a B, c) vector B es menor a A
